@@ -1,0 +1,11 @@
+##gff-version 3
+##sequence-region chr3 126243176 126262134
+chr3	.	gene	126243176	126262134	.	+	.	ID=CHST13;Name=CHST13
+chr3	.	mRNA	126243176	126262134	.	+	.	ID=NM_152889;Parent=CHST13;Name=NM_152889
+chr3	.	exon	126243176	126243272	.	+	.	ID=exon1;Parent=NM_152889
+chr3	.	exon	126255114	126255196	.	+	.	ID=exon2;Parent=NM_152889
+chr3	.	exon	126260576	126262134	.	+	.	ID=exon3;Parent=NM_152889
+chr3	.	mRNA	126243180	126262134	.	+	.	ID=NM_152890;Parent=CHST13;Name=NM_152890
+chr3	.	exon	126243180	126243200	.	+	.	ID=exon1_2;Parent=NM_152890
+chr3	.	exon	126255114	126255196	.	+	.	ID=exon2_2;Parent=NM_152890
+chr3	.	exon	126260776	126262134	.	+	.	ID=exon3_2;Parent=NM_152890
